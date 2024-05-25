@@ -76,3 +76,4 @@ Power Supply: The fire alarm circuit typically receives power from a reliable el
 # Result
 
 Thus,the pcb circuit designing is successfully completed.
+
